@@ -1,4 +1,7 @@
 🤖 Customer Service Chatbot
+
+
+
 A Streamlit-based AI chatbot that leverages LangChain, Google Palm, and FAISS for intelligent question-answering from a CSV-based knowledge base. Ideal for enhancing customer support by enabling automated yet accurate responses.
 
 🚀 Features
